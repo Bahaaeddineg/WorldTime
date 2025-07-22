@@ -1,1 +1,1 @@
-This is a very simple mobile application built in under 2 hours as part of a technical challenge for a TEO presentation. The app fetches and displays the current time in various countries, enhanced with clean UI and smooth animations.
+This is a very simple mobile application built in under 1 hour as part of a technical challenge for a TEO presentation. The app fetches and displays the current time in various countries, enhanced with clean UI and smooth animations.
